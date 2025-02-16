@@ -1,0 +1,4 @@
+[submodule "trinitate"]
+	path = trinitate
+	url = git@git.vauxoo.com:vauxoo/trinitate.git
+	branch = 18.0
