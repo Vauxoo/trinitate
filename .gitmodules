@@ -2,3 +2,31 @@
 	path = trinitate
 	url = git@git.vauxoo.com:vauxoo/trinitate.git
 	branch = 18.0
+[submodule "l10n-edi-hr-expense"]
+	path = l10n-edi-hr-expense
+	url = git@git.vauxoo.com:vauxoo/l10n-edi-hr-expense.git
+	branch = 18.0
+[submodule "l10n-mx-edi-advance"]
+	path = l10n-mx-edi-advance
+	url = git@git.vauxoo.com:mexico/l10n-mx-edi-advance.git
+	branch = 18.0
+[submodule "l10n-mx-edi-cancellation"]
+	path = l10n-mx-edi-cancellation
+	url = git@git.vauxoo.com:mexico/l10n-mx-edi-cancellation.git
+	branch = 18.0
+[submodule "l10n-mx-avoid-reversal-entry"]
+	path = l10n-mx-avoid-reversal-entry
+	url = git@git.vauxoo.com:mexico/l10n-mx-avoid-reversal-entry.git
+	branch = 18.0
+[submodule "stock-logistics-workflow"]
+	path = stock-logistics-workflow
+	url = git@github.com:Vauxoo/stock-logistics-workflow.git
+	branch = 18.0
+[submodule "l10n-mx-edi-related-documents"]
+	path = l10n-mx-edi-related-documents
+	url = git@git.vauxoo.com:mexico/l10n-mx-edi-related-documents.git
+	branch = 18.0
+[submodule "l10n-edi-discount"]
+	path = l10n-edi-discount
+	url = git@git.vauxoo.com:vauxoo/l10n-edi-discount.git
+	branch = 18.0
