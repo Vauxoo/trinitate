@@ -30,3 +30,11 @@
 	path = l10n-edi-discount
 	url = git@git.vauxoo.com:vauxoo/l10n-edi-discount.git
 	branch = 18.0
+[submodule "purchase-workflow"]
+	path = purchase-workflow
+	url = git@github.com:Vauxoo/purchase-workflow.git
+	branch = 18.0
+[submodule "addons-vauxoo"]
+	path = addons-vauxoo
+	url = git@github.com:Vauxoo/addons-vauxoo.git
+	branch = 18.0
