@@ -42,3 +42,7 @@
 	path = l10n-mx-edi-hr-expense
 	url = git@git.vauxoo.com:mexico/l10n-mx-edi-hr-expense.git
 	branch = 18.0
+[submodule "account-analytic"]
+	path = account-analytic
+	url = git@github.com:Vauxoo/account-analytic.git
+	branch = 18.0
