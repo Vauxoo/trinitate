@@ -54,3 +54,15 @@
 	path = edi-document
 	url = git@git.vauxoo.com:vauxoo/edi-document.git
 	branch = 18.0
+[submodule "l10n-mx-check-printing"]
+	path = l10n-mx-check-printing
+	url = git@git.vauxoo.com:mexico/l10n-mx-check-printing.git
+	branch = 18.0
+[submodule "l10n-mx-edi-refund"]
+	path = l10n-mx-edi-refund
+	url = git@git.vauxoo.com:mexico/l10n-mx-edi-refund.git
+	branch = 18.0
+[submodule "l10n-mx-partner-blocklist"]
+	path = l10n-mx-partner-blocklist
+	url = git@git.vauxoo.com:mexico/l10n-mx-partner-blocklist.git
+	branch = 18.0
