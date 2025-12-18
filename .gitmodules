@@ -58,3 +58,7 @@
 	path = l10n-mx-partner-blocklist
 	url = git@git.vauxoo.com:mexico/l10n-mx-partner-blocklist.git
 	branch = 18.0
+[submodule "l10n-mx-edi-pos-customer-deposits"]
+	path = l10n-mx-edi-pos-customer-deposits
+	url = git@git.vauxoo.com:mexico/l10n-mx-edi-pos-customer-deposits.git
+	branch = 18.0
